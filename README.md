@@ -1,0 +1,2 @@
+# rubik
+Gra logiczna Rubik
